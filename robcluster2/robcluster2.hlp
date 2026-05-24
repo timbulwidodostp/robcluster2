@@ -1,0 +1,27 @@
+.-
+help for ^robcluster2^
+.-
+
+Combine robust regression estimation (M or MM) with multiway clustered standard errors.
+----------------------
+
+ ^robcluster2^
+ 
+Description
+-----------
+
+^robcluster2^ Combine robust regression estimation (M or MM) with multiway clustered standard errors.
+     
+^Note:^ Requires robcluster2.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^robcluster2 mm robcluster2 robcluster2_1 robcluster2_2 robcluster2_3, eff(95) cluster(Id Year)^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
