@@ -2,4 +2,4 @@
 1
 2
 3
-p wsga did Weighted Subgroup Analysis for Difference-in-Differences Designs Use wsga did With STATA 19
+p robcluster2 Combine robust regression estimation (M or MM) with multiway clustered standard errors Use robcluster2 With STATA 19
