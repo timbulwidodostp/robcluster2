@@ -1,0 +1,2 @@
+# robcluster2
+Combine robust regression estimation (M or MM) with multiway clustered standard errors Use robcluster2 With STATA 19
