@@ -1,6 +1,8 @@
 # robcluster2
 Combine robust regression estimation (M or MM) with multiway clustered standard errors Use robcluster2 With STATA 19
 
+https://www.youtube.com/watch?v=OnYlbjMA-E4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
